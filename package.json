@@ -1,14 +1,14 @@
 {
   "version": "2.0.0",
   "name": "holly-react",
-  "description": "React version of Holly",
-  "author": "Luke McDonald (https://lukemcdonald.com/)",
+  "description": "React version",
+  "author": "AllinOne",
   "homepage": "https://lukemcdonald.github.io/holly-react",
   "keywords": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukemcdonald/holly-react.git"
+    "url": "https://github.com/alliglobal/pagepr.git"
   },
   "bugs": {
     "url": "https://github.com/lukemcdonald/holly-react/issues"
